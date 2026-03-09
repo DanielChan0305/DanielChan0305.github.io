@@ -1,0 +1,45 @@
+.course-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 12px;
+  margin: 4px 0;
+  border-left: 3px solid $color-link;
+  background-color: rgba(255, 255, 255, 0.03);
+  font-size: 0.9rem;
+}
+
+.course-header {
+  display: flex;
+  gap: 12px;
+  align-items: baseline;
+}
+
+.course-code {
+  color: $color-accent;
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+.course-name {
+  color: $color-heading;
+}
+
+.course-details {
+  display: flex;
+  gap: 16px;
+  align-items: baseline;
+  white-space: nowrap;
+}
+
+.course-semester {
+  color: $color-link;
+  font-size: 0.85rem;
+}
+
+.course-grade {
+  color: $color-heading;
+  font-weight: bold;
+  min-width: 2ch;
+  text-align: left;
+}

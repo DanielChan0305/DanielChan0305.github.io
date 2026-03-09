@@ -40,17 +40,17 @@ header h1, h5 {
 body {
   padding-left: 2rem;
   padding-right: 2rem;
-  color: #c5ccce;
-  background-color: #282f3a;
+  color: $color-text;
+  background-color: $color-bg;
 }
 
 h1,
 h2 {
-  color: #dcdede;
+  color: $color-heading;
 }
 
 strong{
-  color: #D3EB32;
+  color: $color-accent;
 }
 
 header h5 {
@@ -67,7 +67,7 @@ code {
 /* 06 Primary color */
 
 a {
-  color: #7e92a2;
+  color: $color-link;
 }
 
 /* 07 Secondary colors */
