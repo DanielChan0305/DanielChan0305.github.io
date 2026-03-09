@@ -25,8 +25,17 @@ I'm a yr 1 student currently studying computer science in HKUST and I'm especial
 
 ## Awards && Scholarships
 
-{% include award.html title="Dean's List" year="2024" info="Awarded for outstanding academic performance in Fall semester." %}
-{% include award.html title="HKUST Scholarship" year="2024" %}
+{% include award.html 
+    title="Dean's List" 
+    year="2024" 
+    info="Awarded for outstanding academic performance in Fall semester." 
+%}
+
+{% include award.html 
+   title="HKUST Scholarship" 
+   year="2024" 
+   info="Awarded for academic excellence. <a href='cats/2026/03/09/Creating-This-Website.html'>Read more &rarr;</a>" 
+%}
 
 ## Contact
 Email me, [chanhoyin0305@gmail.com](mailto:chanhoyin0305@gmail.com).
