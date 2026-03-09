@@ -1,17 +1,14 @@
 ---
 layout: default
-title: LightSpeed Contact
+title: Daniel Chan
 ---
 
 ## About
-LightSpeed is a lightweight Jekyll theme designed to be privacy-friendly (~~no~~ _very little_ JavaScript), fast, and
-excellent at delivering content.
+Daniel here, you can also call me iDoItSaNdWiTcH. 
 
-## About, Further
-This second section demonstrates spacing. CSS is kept to a minimum with minor styling
-for site colours and spacing. prism.js is used for code styling.    
-<br>
-Here's a new paragraph for you.  
+I'm a yr 1 student currently studying computer science in HKUST and I'm especially keen on the field of **data structure** and **algorithms**.
+
+
 
 ## Features
 - Pagination
@@ -24,4 +21,4 @@ Here's a new paragraph for you.
 - SEO Plugin
 
 ## Contact
-Email me, [tom@tomjack.ca](mailto:tom@tomjack.ca).
+Email me, [chanhoyin0305@gmail.com](mailto:chanhoyin0305@gmail.com).

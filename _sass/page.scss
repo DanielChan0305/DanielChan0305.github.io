@@ -38,14 +38,19 @@ header h1, h5 {
 /* 04 Color and contrast */
 
 body {
+  padding-left: 2rem;
+  padding-right: 2rem;
   color: #c5ccce;
   background-color: #282f3a;
 }
 
 h1,
-h2,
-strong {
+h2 {
   color: #dcdede;
+}
+
+strong{
+  color: #D3EB32;
 }
 
 header h5 {
