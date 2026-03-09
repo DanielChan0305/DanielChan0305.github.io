@@ -1,0 +1,31 @@
+.award-item {
+  padding: 8px 12px;
+  margin: 4px 0;
+  border-left: 3px solid $color-accent;
+  background-color: rgba(255, 255, 255, 0.03);
+  font-size: 0.9rem;
+}
+
+.award-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.award-title {
+  color: $color-heading;
+  font-weight: bold;
+}
+
+.award-year {
+  color: $color-link;
+  white-space: nowrap;
+  font-size: 0.85rem;
+}
+
+.award-info {
+  color: $color-text;
+  font-size: 0.85rem;
+  margin-top: 4px;
+  line-height: 1.4;
+}
