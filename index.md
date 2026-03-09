@@ -12,14 +12,23 @@ I'm a yr 1 student currently studying computer science in HKUST and I'm especial
 
 ## Education
 
-#### Hong Kong University of Science and Technology
+#### Hong Kong University of Science and Technology | 2025 - 2029
 <details>
 <summary>Bachelor of Engineering in Computer Science</summary>
+<p style='margin-left : 2rem'><strong>CGA = 4.12</strong> (As of March 2026)</p>
 
-{% include course.html code="COMP1021" name="Introduction to Computer Science" grade="A" semester="Fall 2024" %}
-{% include course.html code="MATH1012" name="Calculus IA" grade="B+" semester="Fall 2024" %}
+{% include course.html code="COMP1023" name="Introduction to Python Programming" grade="A+" semester="Fall 2025-26" %}
+{% include course.html code="COMP2611" name="Computer Organization" grade="A" semester="Fall 2025-26" %}
+{% include course.html code="COMP2711H" name="Honors Discrete Mathematical Tools for Computer Science" grade="A+" semester="Fall 2025-26" %}
+<br>
+{% include course.html code="MATH1013" name="Calculus I" grade="A" semester="Fall 2025-26" %}
 
 </details>
+
+<br>
+
+#### Sing Yin Secondary School | 2019 - 2025
+Best5 33/35; Best6 39/42
 
 <br>
 

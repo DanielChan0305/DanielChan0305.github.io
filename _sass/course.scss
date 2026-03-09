@@ -18,9 +18,12 @@
 .course-code {
   font-weight: bold;
   white-space: nowrap;
+  min-width: 8ch;
+  display: inline-block;
 }
 
 .course-name {
+  margin-left: 1rem;
   color: $color-heading;
 }
 
