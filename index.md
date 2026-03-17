@@ -106,5 +106,9 @@ Best5 33/35; Best6 39/42
    info="Gold Medal in the Hong Kong Olympiad in Informatics Senior Division, representing Sing Yin Secondary School." 
 %}
 
+<br>
+
 ## Contact 
-Email me, [chanhoyin0305@gmail.com](mailto:chanhoyin0305@gmail.com).
+Email me, [chanhoyin0305@gmail.com](mailto:chanhoyin0305@gmail.com)
+
+My Github, [click me :\)](https://github.com/DanielChan0305)
