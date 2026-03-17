@@ -45,3 +45,26 @@
   min-width: 2ch;
   text-align: left;
 }
+
+@media (max-width: 600px) {
+  .course-item {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4px;
+  }
+
+  .course-header,
+  .course-details {
+    width: 100%;
+    justify-content: space-between;
+  }
+
+  .course-details {
+    white-space: normal;
+    flex-wrap: wrap;
+  }
+
+  .course-name {
+    margin-left: 0.5rem;
+  }
+}
