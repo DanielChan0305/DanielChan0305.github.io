@@ -1,9 +1,13 @@
 .award-item {
   padding: 8px 12px;
   margin: 4px 0;
-  border-left: 3px solid $color-accent;
+  border-left: 3px solid;
   background-color: rgba(255, 255, 255, 0.03);
   font-size: 0.9rem;
+}
+
+.award-item--highlight {
+  border-left-color: $color-accent;
 }
 
 .award-header {

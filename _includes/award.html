@@ -1,4 +1,7 @@
-<div class="award-item">
+<div class="award-item
+            {% if include.highlight %} 
+              award-item--highlight
+            {% endif %}">
   <div class="award-header">
     <span class="award-title">{{ include.title }}</span>
     <span class="award-year">{{ include.year }}</span>
