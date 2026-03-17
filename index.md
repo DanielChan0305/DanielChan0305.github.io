@@ -3,14 +3,14 @@ layout: default
 title: Daniel Chan
 ---
 
-## About
+### About
 Daniel here, you can also call me iDoItSaNdWiTcH. 
 
 I'm a yr 1 student currently studying computer science in HKUST and I'm especially keen on the field of **data structure** and **algorithms**.
 
 <br>
 
-## Education 
+### Education 
 
 #### Hong Kong University of Science and Technology | 2025 - 2029
 <details open>
@@ -47,15 +47,24 @@ Best5 33/35; Best6 39/42
 
 <br>
 
-## Scholarships {#scholarships}
+### Scholarships
 {% include award.html 
    title="The Hong Kong Jockey Club Chairman's Scholarship" 
    year="2025" 
-   info="Comprehensive scholarship supporting exceptional students with full tuition, generous one-off cash award, academic and living allowances, overseas learning subsidies, and leadership development opportunities." 
+   info="
+   Comprehensive scholarship supporting exceptional students with 
+
+   <ol>
+      <li> Full tuition</li>
+      <li> Generous one-off cash award</li>
+      <li> Academic and living allowances</li> 
+      <li> Overseas learning subsidies</li>
+      <li> Leadership development opportunities</li>
+   </ol>
+
+   "
    highlight=true
 %}
-
-<br>
 
 {% include award.html 
    title="HKUST Full Scholarship" 
@@ -72,18 +81,18 @@ Best5 33/35; Best6 39/42
 
 <br>
 
-## Awards 
+### Awards 
 {% include award.html 
-   title="1st Runner-Up, Hack the East" 
+   title="1st Runner-Up && Ingram Micro × AWS Agentic AI Track Award, Hack the East" 
    year="2026" 
-   info="Awarded for project ANGELA, a 3D and agentic AI powered anti-money laundering platform, at Hack the East." 
+   info="
+   
+   Awarded for project ANGELA, a 3D and agentic AI powered anti-money laundering platform, at Hack the East.
+   
+   Hack the East is Hong Kong's largest inter-university hackathon and our team got the 1st runner-up amongst all the 271 teams and won the track award from Ingram Micro X AWS Agentic AI Track.
+   
+   " 
    highlight=true
-%}
-
-{% include award.html 
-   title="Ingram Micro × AWS Agentic AI Track Award" 
-   year="2026" 
-   info="Track award at Hack the East for project ANGELA, a 3D and agentic AI powered anti-money laundering platform." 
 %}
 
 <br>
@@ -112,7 +121,7 @@ Best5 33/35; Best6 39/42
 
 <br>
 
-## Contact 
+### Contact 
 Email me, [chanhoyin0305@gmail.com](mailto:chanhoyin0305@gmail.com)
 
 My Github, [click me :\)](https://github.com/DanielChan0305)
