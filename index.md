@@ -38,6 +38,10 @@ I'm a yr 1 student currently studying computer science in HKUST and I'm especial
 
 <br>
 
+---
+<br>
+
+
 #### Sing Yin Secondary School | 2019 - 2025
 Best5 33/35; Best6 39/42
 
