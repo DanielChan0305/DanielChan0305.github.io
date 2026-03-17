@@ -10,7 +10,7 @@ I'm a yr 1 student currently studying computer science in HKUST and I'm especial
 
 <br>
 
-## Education
+## Education 
 
 #### Hong Kong University of Science and Technology | 2025 - 2029
 <details open>
@@ -43,7 +43,7 @@ Best5 33/35; Best6 39/42
 
 <br>
 
-## Scholarships
+## Scholarships {#scholarships}
 {% include award.html 
    title="The Hong Kong Jockey Club Chairman's Scholarship" 
    year="2025" 
@@ -69,7 +69,6 @@ Best5 33/35; Best6 39/42
 <br>
 
 ## Awards 
-
 {% include award.html 
    title="1st Runner-Up, Hack the East" 
    year="2026" 
@@ -107,5 +106,5 @@ Best5 33/35; Best6 39/42
    info="Gold Medal in the Hong Kong Olympiad in Informatics Senior Division, representing Sing Yin Secondary School." 
 %}
 
-## Contact
+## Contact 
 Email me, [chanhoyin0305@gmail.com](mailto:chanhoyin0305@gmail.com).

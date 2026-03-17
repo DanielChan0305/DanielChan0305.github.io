@@ -1,6 +1,12 @@
-- name: About & Contact
-  link: /
+- name: About
+  link: /#about
+- name: Education
+  link: /#education
+- name: Scholarships
+  link: /#scholarships
+- name: Awards
+  link: /#awards
+- name: Contact
+  link: /#contact
 - name: Posts
   link: /posts
-- name: Categories
-  link: /categories/
