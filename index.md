@@ -121,6 +121,26 @@ Best5 33/35; Best6 39/42
 
 <br>
 
+### Research Experiences
+
+I'm an undergraduate researcher at HKUST under the supervision of [Prof. Raymond Chi Wing
+WONG](https://www.cse.ust.hk/~raywong/). Prof. Wong's research interests include database and data mining. The research topics he worked on includes: 
+
+<br>
+
+1. Spatial Database
+2. Data analytics
+3. Customer-Centric Data Mining 
+4. Privacy Preservation
+
+<br>
+
+I'm currently working on the topic of **Efficient Queries over Database**. 
+
+<br>
+
+### Teaching Experiences
+
 ### Contact 
 Email me, [chanhoyin0305@gmail.com](mailto:chanhoyin0305@gmail.com)
 
