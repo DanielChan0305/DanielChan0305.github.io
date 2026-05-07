@@ -27,7 +27,7 @@ I'm a yr 1 student currently studying computer science in HKUST and I'm especial
 
 <br>
 
-{% include award.html 
+{% include container.html 
    title="Dean's List, Fall 2025-26" 
    year="2026" 
    info="Dean's List recognition at HKUST for outstanding academic performance in the Fall 2025-26 term." 
@@ -48,7 +48,7 @@ Best5 33/35; Best6 39/42
 <br>
 
 ### Scholarships
-{% include award.html 
+{% include container.html 
    title="The Hong Kong Jockey Club Chairman's Scholarship" 
    year="2025" 
    info="
@@ -66,14 +66,14 @@ Best5 33/35; Best6 39/42
    highlight=true
 %}
 
-{% include award.html 
+{% include container.html 
    title="HKUST Full Scholarship" 
    year="2025" 
    info="Scholarship awarded by HKUST, covering the full tuition fees across the entire duration of undergraduate study." 
    highlight=true
 %}
 
-{% include award.html 
+{% include container.html 
    title="Sir Edward Youde Memorial Scholarship" 
    year="2025" 
    info="Scholarship awarded in recognition of academic excellence and all-round performance at Sing Yin Secondary School." 
@@ -82,7 +82,7 @@ Best5 33/35; Best6 39/42
 <br>
 
 ### Awards 
-{% include award.html 
+{% include container.html 
    title="1st Runner-Up && Ingram Micro × AWS Agentic AI Track Award, Hack the East" 
    year="2026" 
    info="
@@ -97,7 +97,7 @@ Best5 33/35; Best6 39/42
 
 <br>
 
-{% include award.html 
+{% include container.html 
    title="Bronze Medal, ICPC Hong Kong Regional Contest 2025-26" 
    year="2026" 
    info="Bronze Medal at the ICPC Hong Kong Regional Contest 2025-26, representing HKUST." 
@@ -106,14 +106,14 @@ Best5 33/35; Best6 39/42
 
 
 
-{% include award.html 
+{% include container.html 
    title="Gold Medal, Hong Kong Olympiad in Informatics, Senior Division" 
    year="2025" 
    info="Gold Medal in the Hong Kong Olympiad in Informatics Senior Division, representing Sing Yin Secondary School." 
 %}
 
 
-{% include award.html 
+{% include container.html 
    title="Gold Medal, Hong Kong Olympiad in Informatics, Senior Division" 
    year="2024" 
    info="Gold Medal in the Hong Kong Olympiad in Informatics Senior Division, representing Sing Yin Secondary School." 

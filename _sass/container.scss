@@ -1,4 +1,4 @@
-.award-item {
+.container-item {
   padding: 8px 12px;
   margin: 4px 0;
   border-left: 3px solid;
@@ -6,28 +6,28 @@
   font-size: 0.9rem;
 }
 
-.award-item--highlight {
+.container-item--highlight {
   border-left-color: $color-accent;
 }
 
-.award-header {
+.container-header {
   display: flex;
   justify-content: space-between;
   align-items: baseline;
 }
 
-.award-title {
+.container-title {
   color: $color-text;
   font-weight: bold;
 }
 
-.award-year {
+.container-year {
   color: $color-link;
   white-space: nowrap;
   font-size: 0.85rem;
 }
 
-.award-info {
+.container-info {
   color: $color-text;
   font-size: 0.85rem;
   margin-top: 4px;

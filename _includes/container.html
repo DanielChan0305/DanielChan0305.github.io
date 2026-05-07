@@ -1,0 +1,12 @@
+<div class="container-item
+            {% if include.highlight %} 
+              container-item--highlight
+            {% endif %}">
+  <div class="container-header">
+    <span class="container-title">{{ include.title }}</span>
+    <span class="container-year">{{ include.year }}</span>
+  </div>
+  {% if include.info %}
+  <div class="container-info">{{ include.info }}</div>
+  {% endif %}
+</div>
