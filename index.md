@@ -141,6 +141,10 @@ I'm currently working on the topic of **Efficient Queries over Database**.
 
 ### Teaching Experiences
 
+I taught secondary school students programming languages like Python and C++. Training them to participate in competitive programming competitions such as HKOI and CCC. Topics that I have taught covers algorithms and data structures such as binary search, partial sums, segment trees, graphs, and network flows, mathematical topics like modular arithmetics, matrices, combinatorics and probabilities.
+
+My teaching also spans into DSE Maths, M2, Physics and ICT, I'm confident in explaining complex and abstract ideas to students using simple analogies or metaphors, adapting my teaching style and methods which best benefits my students. 
+
 ### Contact 
 Email me, [chanhoyin0305@gmail.com](mailto:chanhoyin0305@gmail.com)
 
