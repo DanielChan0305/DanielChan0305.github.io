@@ -145,3 +145,5 @@ I'm currently working on the topic of **Efficient Queries over Database**.
 Email me, [chanhoyin0305@gmail.com](mailto:chanhoyin0305@gmail.com)
 
 My Github, [click me :\)](https://github.com/DanielChan0305)
+
+Linkedin, [Connect with me :0 ](https://www.linkedin.com/in/ho-yin-chan-31560a393/)
