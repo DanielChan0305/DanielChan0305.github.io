@@ -18,12 +18,22 @@ I'm a yr 1 student currently studying computer science in HKUST and I'm especial
 <p style='margin-left : 2rem'>CGA = 4.12 (As of March 2026)</p>
 
 {% include course.html code="COMP1023" name="Introduction to Python Programming" grade="A+" semester="Fall 2025-26" %}
+
+
+{% include course.html code="COMP1942" name="Explore & Visualize Data" grade="A+" semester="Spring 2025-26" %}
+
+{% include course.html code="COMP2011" name="Programming with C++" grade="A+" semester="Spring 2025-26" %}
+
+{% include course.html code="COMP2211" name="Introduction to AI" grade="A+" semester="Spring 2025-26" %}
+
 {% include course.html code="COMP2611" name="Computer Organization" grade="A" semester="Fall 2025-26" %}
 {% include course.html code="COMP2711H" name="Honors Discrete Mathematical Tools for Computer Science" grade="A+" semester="Fall 2025-26" %}
 
 <br>
 
 {% include course.html code="MATH1013" name="Calculus I" grade="A" semester="Fall 2025-26" %}
+
+{% include course.html code="MATH1014" name="Calculus II" grade="A" semester="Spring 2025-26" %}
 
 <br>
 
@@ -44,6 +54,10 @@ I'm a yr 1 student currently studying computer science in HKUST and I'm especial
 
 #### Sing Yin Secondary School | 2019 - 2025
 Best5 33/35; Best6 39/42
+
+5** : Maths, Physics, ICT
+
+5*  : Chinese, English, Chemistry
 
 <br>
 
