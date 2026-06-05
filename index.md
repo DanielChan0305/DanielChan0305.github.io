@@ -15,7 +15,7 @@ I'm a yr 1 student currently studying computer science in HKUST and I'm especial
 #### Hong Kong University of Science and Technology | 2025 - 2029
 <details open>
 <summary>Bachelor of Engineering in Computer Science</summary>
-<p style='margin-left : 2rem'>CGA = 4.12 (As of March 2026)</p>
+<p style='margin-left : 2rem'>CGA = 4.195 (As of June 2026)</p>
 
 {% include course.html code="COMP1023" name="Introduction to Python Programming" grade="A+" semester="Fall 2025-26" %}
 
@@ -29,6 +29,9 @@ I'm a yr 1 student currently studying computer science in HKUST and I'm especial
 {% include course.html code="COMP2611" name="Computer Organization" grade="A" semester="Fall 2025-26" %}
 {% include course.html code="COMP2711H" name="Honors Discrete Mathematical Tools for Computer Science" grade="A+" semester="Fall 2025-26" %}
 
+{% include course.html code="COMP3511" name="Operating Systems" grade="A+" semester="Spring 2025-26" %}
+
+{% include course.html code="COMP3711H" name="Honors Algorithm Design" grade="A+" semester="Spring 2025-26" %}
 <br>
 
 {% include course.html code="MATH1013" name="Calculus I" grade="A" semester="Fall 2025-26" %}
