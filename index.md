@@ -20,41 +20,47 @@ title: Daniel Chan
 ### Education 
 
 #### Hong Kong University of Science and Technology | 2025 - 2029
-<details open>
-<summary>Bachelor of Engineering in Computer Science</summary>
+Bachelor of Engineering in Computer Science
 <p style='margin-left : 2rem'>CGA = 4.195 (As of June 2026)</p>
 
-{% include course.html code="COMP1023" name="Introduction to Python Programming" grade="A+" semester="Fall 2025-26" %}
+<div style="padding-left : 20px">
+   <details close>
+   <summary>
+      Details
+   </summary>
+
+   {% include course.html code="COMP1023" name="Introduction to Python Programming" grade="A+" semester="Fall 2025-26" %}
 
 
-{% include course.html code="COMP1942" name="Explore & Visualize Data" grade="A+" semester="Spring 2025-26" %}
+   {% include course.html code="COMP1942" name="Explore & Visualize Data" grade="A+" semester="Spring 2025-26" %}
 
-{% include course.html code="COMP2011" name="Programming with C++" grade="A+" semester="Spring 2025-26" %}
+   {% include course.html code="COMP2011" name="Programming with C++" grade="A+" semester="Spring 2025-26" %}
 
-{% include course.html code="COMP2211" name="Introduction to AI" grade="A+" semester="Spring 2025-26" %}
+   {% include course.html code="COMP2211" name="Introduction to AI" grade="A+" semester="Spring 2025-26" %}
 
-{% include course.html code="COMP2611" name="Computer Organization" grade="A" semester="Fall 2025-26" %}
-{% include course.html code="COMP2711H" name="Honors Discrete Mathematical Tools for Computer Science" grade="A+" semester="Fall 2025-26" %}
+   {% include course.html code="COMP2611" name="Computer Organization" grade="A" semester="Fall 2025-26" %}
+   {% include course.html code="COMP2711H" name="Honors Discrete Mathematical Tools for Computer Science" grade="A+" semester="Fall 2025-26" %}
 
-{% include course.html code="COMP3511" name="Operating Systems" grade="A+" semester="Spring 2025-26" %}
+   {% include course.html code="COMP3511" name="Operating Systems" grade="A+" semester="Spring 2025-26" %}
 
-{% include course.html code="COMP3711H" name="Honors Algorithm Design" grade="A+" semester="Spring 2025-26" %}
-<br>
+   {% include course.html code="COMP3711H" name="Honors Algorithm Design" grade="A+" semester="Spring 2025-26" %}
+   <br>
 
-{% include course.html code="MATH1013" name="Calculus I" grade="A" semester="Fall 2025-26" %}
+   {% include course.html code="MATH1013" name="Calculus I" grade="A" semester="Fall 2025-26" %}
 
-{% include course.html code="MATH1014" name="Calculus II" grade="A" semester="Spring 2025-26" %}
+   {% include course.html code="MATH1014" name="Calculus II" grade="A" semester="Spring 2025-26" %}
 
-<br>
+   <br>
 
-{% include container.html 
-   title="Dean's List, Fall 2025-26" 
-   year="2026" 
-   info="Dean's List recognition at HKUST for outstanding academic performance in the Fall 2025-26 term." 
-   highlight=true
-%}
+   {% include container.html 
+      title="Dean's List, Fall 2025-26" 
+      year="2026" 
+      info="Dean's List recognition at HKUST for outstanding academic performance in the Fall 2025-26 term." 
+      highlight=true
+   %}
 
-</details>
+   </details>
+</div>
 
 <br>
 
