@@ -44,6 +44,29 @@ body {
   background-color: $color-bg;
 }
 
+/* 08 About section with image */
+
+.about-wrapper {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+}
+
+.about-text {
+  flex: 1;
+}
+
+.about-image {
+  flex-shrink: 0;
+}
+
+.about-image img {
+  width: 300px;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
 h1, h2, h3 {
   color: $color-heading;
 }

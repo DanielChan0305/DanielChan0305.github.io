@@ -4,9 +4,16 @@ title: Daniel Chan
 ---
 
 ### About
-Daniel here, you can also call me iDoItSaNdWiTcH. 
+<div class="about-wrapper">
+  <div class="about-text">
+    Daniel here, you can also call me iDoItSaNdWiTcH. 
 
-I'm a yr 1 student currently studying computer science in HKUST and I'm especially keen on the field of **data structure** and **algorithms**.
+    I'm a yr 1 student currently studying computer science in HKUST and I'm especially keen on the field of data structure and algorithms.
+  </div>
+  <div class="about-image">
+    <img src="/selfie.jpg" alt="Selfie of Daniel" />
+  </div>
+</div>
 
 <br>
 
