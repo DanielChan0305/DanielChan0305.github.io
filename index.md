@@ -6,9 +6,9 @@ title: Daniel Chan
 ### About
 <div class="about-wrapper">
   <div class="about-text">
-    Daniel here, you can also call me iDoItSaNdWiTcH. 
+    Hi Daniel here, you can also call me iDoItSaNdWiTcH. 
 
-    I'm a yr 1 student currently studying computer science in HKUST and I'm especially keen on the field of data structure and algorithms.
+    I'm a yr 1 student currently studying computer science in HKUST and I'm especially keen on the field of data structure and algorithms. 
   </div>
   <div class="about-image">
     <img src="/selfie.jpg" alt="Selfie of Daniel" />
@@ -165,11 +165,13 @@ WONG](https://www.cse.ust.hk/~raywong/). Prof. Wong's research interests include
 
 <br>
 
-I'm currently working on the topic of **Efficient Queries over Database**. 
+I'm currently working on **Efficient Preference Learning via Pairwise Comparisons** — investigating how historical user data can accelerate the estimation of individual utility vectors in high-dimensional spaces, under the supervision of Prof. Raymond Chi Wing Wong.
 
 <br>
 
 ### Teaching Experiences
+
+I'm an undergraduate teaching assistant for the course COMP1023 - Introduction to Python Programming. My main duties includes the preparation of the slides and deliver the lessons during tutorial sessions, creating labs assignments as well as programming assignments. 
 
 I taught secondary school students programming languages like Python and C++. Training them to participate in competitive programming competitions such as HKOI and CCC. Topics that I have taught covers algorithms and data structures such as binary search, partial sums, segment trees, graphs, and network flows, mathematical topics like modular arithmetics, matrices, combinatorics and probabilities.
 
